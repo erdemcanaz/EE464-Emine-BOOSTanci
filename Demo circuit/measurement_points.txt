@@ -1,0 +1,26 @@
+#######################
+GND-1
+vin_beforefilter
+vin_afterfilter
+mosfet_drain
+
+IC_output
+IC_FB
+IC_comp
+IC_rtct
+IC_Isense
+
+opto_feedback_voltage
+
+snubber_positive
+snubber_negative
+
+output_current (additional acs712 will be used)
+
+######################
+GND-2
+vout_afterfilter
+vout_transformer
+vout_beforefilter
+
+
